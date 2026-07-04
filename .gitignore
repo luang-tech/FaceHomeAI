@@ -20,7 +20,7 @@ __pycache__/
 # Variáveis de ambiente
 .env
 
-# Fotos de desconhecidos
+# Fotos temporárias
 desconhecidos/
 
 # Modelos treinados
@@ -29,3 +29,9 @@ desconhecidos/
 
 # Cache
 .pytest_cache/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
