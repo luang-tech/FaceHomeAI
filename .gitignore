@@ -1,0 +1,31 @@
+# Ambiente virtual
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Banco de dados
+*.db
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+
+# VS Code
+.vscode/
+
+# Variáveis de ambiente
+.env
+
+# Fotos de desconhecidos
+desconhecidos/
+
+# Modelos treinados
+*.h5
+*.pkl
+
+# Cache
+.pytest_cache/
